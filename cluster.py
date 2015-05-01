@@ -10,8 +10,8 @@ from sklearn.cluster import KMeans
 """
   Options
 """
-path = 'docs4'      # directory of articles
-k = 6               # number of centroids i.e. clusters
+path = 'docs4'      # directory of articles .txt files
+k = 5               # number of centroids i.e. clusters
 t = 5               # number of terms in print out
 
 
@@ -27,7 +27,7 @@ for name in os.listdir(path):
     datum = f.read().replace('\n', ' ')
     dataset.append(datum)
 
-titles = [t for t in os.listdir(path)]
+titles = [title for title in os.listdir(path)]
 
 
 
