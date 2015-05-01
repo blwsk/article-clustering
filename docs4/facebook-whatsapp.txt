@@ -1,0 +1,24 @@
+Facebook just bought WhatsApp, paying $16bn in cash and stock ($4bn cash, $12bn stock at current prices) and $3bn in RSUs. WhatsApp has 450m active users, of which 72% are active every day. It has just 32 engineers. And its users share 500m photos a day, which is almost certainly more than Facebook. 
+
+This is interesting in all sorts of ways - it illustrates most of the key trends in consumer tech today in one deal. 
+
+First, it shows the continued determination of Facebook to be the 'next' Facebook. It's striking to compare the aggressive reaction to disruption shown by Google, Facebook and other leading web companies today with how some of their predecessors a decade ago stumbled and lost their way. 
+
+Second, the winner-takes-all dynamics of social on the desktop web do not appear to apply on mobile, and if there are winner-takes-all dynamics for mobile social it's not yet clear what they are. There are four main aspects to this: 
+
+Smartphone apps can access your address book, bypassing the need to rebuild your social graph on a new service
+They can access your photo library, where uploading photos to different websites is a pain
+They can use push notifications instead of relying on emails and on people bothering to check multiple websites
+Crucially, they all get an icon on the home screen. 
+Any smartphone app is just two taps away - a desktop site can crush a new competitor by adding it as a feature with a new menubar icon but on mobile there isn't room to do that. Mobile tends to favor single-purpose, specialized apps.
+
+This has led to an explosion of mobile social apps - last summer I counted over 50 with more than 1m downloads on Google Play. Some sort of consolidation is clearly inevitable but it's much less clear whether we will revert to one or two. The smartphone itself is the social platform and all sorts of different ideas can leverage that, where on the desktop web they'd have needed to leverage Facebook.
+
+So It's quite possible mobile social will have lots of services indefinitely. This creates opportunities, but also a pretty basic challenge to Facebook. Partly in response, it paid first 1% of its market value for Instagram and now close to 10% for WhatsApp, taking not dominance but at the least two of the commanding heights of mobile social. That's the right way to think about value, I think - not 'OMG $16bn!", but "is this worth 10% of Facebook?' The deal values WhatsApp users at $35 each (very close to what Google paid for YouTube, incidentally), but the current market cap of Facebook values its MAUs at $140 or so.  
+
+Third, the sheer scale of the numbers involved is a good illustration of what the shift to mobile means. I produced a presentation here to try to drive home this point: mobile is the next computing platform and it is several times larger than the desktop internet. There are now roughly the same number of smartphones and PCs on earth - those PCs are mostly shared and immobile or locked-down corporate boxes, while the smartphones are mobile and personal. Meanwhile, the widely-discussed collapse in the cost of creating a startup in the last decade combines with both the much larger scale of mobile and the routes to market and virality offered by mobile platforms to mean that if you're very good (and lucky) you can get to astonishing scale in a short time. This scale is at the heart of the valuations we're starting to see - WhatsApp is probably now sending more messages than the entire global SMS system.  
+
+Finally, mobile social apps are not, really, about free SMS. Mobile discovery and acquisition is a mess - it's in a 'pre-pagerank' phase where we lack the right tools and paths to find and discover content and services efficiently. Social apps may well be a major part of this, as I discussed in detail here. These apps have the opportunity to be a third channel in parallel to Google and Facebook.
+
+Also, note this tweet from the co-founder. 
+

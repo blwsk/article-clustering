@@ -1,0 +1,36 @@
+Facebook, it seems, is unstoppable. The social publishing site, just 11 years old, is now the dominant force in American media. It drives a quarter of all web traffic. In turn, Facebook sucks up a huge portion of ad revenue—the money that keeps news organizations running—and holds an enormous captive audience.
+
+We already know, from a Pew poll last year, that nearly half of the adults who use the Internet report getting their news from Facebook alone. Now consider some of the latest numbers from Pew, in its annual State of the Media report, which came out on Wednesday:
+
+• As in previous years, just five companies generate the majority (61 percent) of digital ad revenue: Facebook, Google, Microsoft, Yahoo, and AOL.
+
+• Facebook more than doubled digital ad revenue over the course of two years. It made $5 billion in ad money last year. That represents 10 percent of all digital ad revenue.
+
+• Facebook is getting a quarter of all display ad revenue and more than a third (37 percent) of display ads on mobile.
+
+This last point—Facebook's mobile ad revenue dominance—is worth lingering on for a moment. Facebook has succeeded in thriving financially on mobile while leaving desktop behind. That's exactly what consumers are doing, but it was unclear for years that money would follow on mobile. (It's still unclear, for news sites especially, whether mobile revenue will be enough.) Facebook's share of revenue on desktop dropped 20 percentage points last year, while its share of mobile revenue went up 20 percentage points.
+
+What all this reveals, and what's evident from the rest of the Pew report, is that Facebook's already established dominance is only growing.
+
+The Pew report is also a reminder that Facebook—and, to a smaller extent, social publishing sites like Twitter—has changed Americans' news diets. For most news consumers, long gone are the days of sitting down to read an entire newspaper. Instead, people are increasingly beginning with Facebook and dipping into a variety of news sites on an article to article basis.
+
+The average visit to The New York Times’ website and associated apps in January 2015 lasted only 4.6 minutes – and this was the highest of the top 25. Thus, most online newspaper visitors are “flybys,” arriving perhaps through a link on a social networking site or sent in an email, and so may not think of this experience as “reading a newspaper” but simply browsing an article online.
+For context: The average American smartphone owner spends more than 42 minutes a day on the site, according to CEO Mark Zuckerberg in an earnings call last year. Facebook accounts for one out of every five minutes spent on a smartphone, he said.
+
+To say Facebook is huge is an understatement. Even to call it "the Coca-Cola of social media," as Austin Carr did in this excellent Fast Company piece, now seems muted. "The great social network of the early 21st century is laying the groundwork," he wrote, "for a platform that could make Facebook a part of just about every social interaction that takes place around the world."
+
+Facebook wants to be the portal by which people go online. And, increasingly, it is.
+
+Media companies are already hugely dependent on Facebook for traffic. Vox, for instance, gets 40 percent of visits through the site. Other leading news organizations get something like a quarter of site visits from Facebook, according to Nieman Journalism Lab. For many sites, the percentage of traffic from Facebook is quite likely much bigger than that.
+
+"Facebook should not necessarily be the only way people consume news," the site's director of media partnerships, Andy Mitchell, recently said. And yet. Last month, several companies—including The New York Times and BuzzFeed—confirmed plans to begin hosting their work directly on Facebook. "Nothing attracts news organizations like Facebook," The New York Times wrote of the deal. "And nothing makes them more nervous." There's good reason for that. Put simply by Pew: "While new relationships have been struck between news organizations and tech companies like Facebook, the tech companies still control more of the arrangement and reap most of the financial benefit."
+
+Facebook, like any good tech company, has a history of tinkering with its algorithm. Which means it's constantly adjusting the mechanisms that affect what news—from status updates from friends to stories from The Atlantic—pops up in a person's Facebook feed. "In 2015, then, the winners of the Facebook attention lottery are going to be more videos, as well as genuinely native, in-app content from advertisers," Felix Salmon wrote for Nieman Lab late last year. "The losers are going to be external websites who have become reliant on the Facebook traffic firehose. That traffic is going to start falling, in 2015, for the first time. And the repercussions are likely to be huge."
+
+Just last week, Facebook explained that it would give more weight to status updates published by friends, rather than news organizations—but said posts by media companies will still appear in the feeds of people who "like to read news or interact with posts from pages [they] care about."
+
+Which means, increasingly, Facebook is America's news editor. Only it's an editor with a vague and amorphous set of value—news judgment that is tailored to every reader's own behaviors and likes.
+
+It's not totally out of the question that people might someday be able to control—or at least be able to plainly see—the invisible architecture that makes the web, with its mix of targeted ads and news, appear the way it does to any given person. I've written previously about the idea that news organizations might even be able to write their own algorithms, allowing Facebook users to subscribe to, say, The Atlantic's sensibility by way of algorithmic filtering. (Think of it of like an app store but for algorithms.) It's possible, sure. But likely? Maybe not.
+
+For now, and for the foreseeable future, Facebook rules.​

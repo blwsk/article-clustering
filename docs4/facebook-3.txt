@@ -1,0 +1,32 @@
+Once, the idea that a reader would find a New York Times story without ever picking up a newspaper might have seemed preposterous. Now, Times stories are everywhere, and the news organization has not only the paper but also a bustling website and a range of apps.
+
+In six months, though, you might read a story from the paper of record without ever arriving at a Times-branded anything. The New York Times is considering publishing some of its stories directly to Facebook, according to a story in the paper Tuesday. These stories would look somewhat like a normal news story in a user’s News Feed, but instead of sending users to NYTimes.com servers, they’d send users to Facebook’s own.
+
+There are a lot of questions still about the initiative, which BuzzFeed and National Geographic may also join. We still don’t know how (or even if) Facebook will share revenue with its partners, and how those deals could change in the future. We also don't know exactly what this new kind of publishing—or even the stories themselves—will look like.
+
+In a week, the Washington Post’s social reader app went from having more than four million users to having almost zero.
+But it isn’t unexpected. The news of a deal in the works has been public to some degree since October of last year, when the late Times reporter David Carr wrote that the arrangement would turn media companies into “serfs in a kingdom that Facebook owns.” And Facebook has exerted enormous influence on online journalism since at least August 2013, when it first tinkered with the algorithm that controls its News Feed to start sending oodles more users to news sites.
+
+Now, news sites rely on the Big Blue. Vox gets 40 percent of its traffic from the site. Justin Smith, the CEO of Bloomberg Media, said in February that, “the list is a lot longer than is publicly known of those that have Facebook delivering half to two-thirds of their traffic right now.”
+
+There are a number of scary prospects for media companies here. Although serving content through Facebook would make stories load a little faster for users—which, at scale, could earn the social network millions—it also reduces news organization’s independence. The deluge of attention from Facebook is something that news organizations have little negotiating power against: Either they will welcome it and will invest on it, or they’ll miss out.
+
+Yet imagining what happens next gets even more worrisome. What if, let's say, in the economic downturn of 2018, Facebook—having absorbed the lion’s share of digital news distribution—simply dictates the next terms of revenue-sharing with news orgs, becoming a de facto Walmart of News? In how many scenarios does Facebook become a hard negotiator, and in how many does it become a benevolent supporter of a broad and bustling American press?
+
+Or consider the following scenario: Facebook selects a couple news organizations and asks them to invest heavily in a native tool that gives news stories—news stories!—an unprecedentedly high-ranking in users’ feed. They do, and for a few months, they see increased traffic in the millions. And then, one day, Facebook’s engineering team realizes that this new tool is cutting engagement and winds it down.
+
+That already happened! It was less than three years ago. In September 2011, Facebook announced at its big annual developer conference that some news organizations had made “social reader” apps, which highlighted their content in the News Feed. The Washington Post made the pilot version of these, and the paper reaped the rewards. Millions more users began seeing Post content.
+
+And then this happened:
+
+Daily Active Users of Washington Post’s Social Reader
+
+
+AppData.com, via Poynter
+On April 9, 2012, more than four million people were using the Post’s social reader app. Three days later, almost none were.
+
+Opt-out or engagement numbers must have indicated that social readers—which Facebook launched in partnership with news organizations—were disliked by Facebook users. Soon all evidence of the readers were gone—and with it, the miraculous traffic. (Although there was some debate over how to interpret the data at first, the trend proved real, and news organizations shifted their efforts elsewhere anyway.)
+
+From what we can tell, Facebook is asking news organizations to publish directly to the site because it will increase user engagement. One fewer second spent waiting for an article to load is one more second Facebook could be showing you ads—and that translates, at scale, to an incredible regained revenue opportunity.
+
+But think of how consequential those tiny details are: Even a 10th-of-a-second speed improvement means huge gains for Facebook. So now Facebook has hired staff and invested time and committed to this enormous undertaking all to get millions of those milliseconds back. The company will work very hard to satisfy the altar of engagement—in fact, it’s a business imperative that it always work harder. But history shows just how fickle, and how unpredictable, that idol can be.

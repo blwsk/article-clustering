@@ -1,0 +1,78 @@
+
+Paul Graham's appetite for small talk is waning. "Are we starting yet? Is this the interview?" he stops midsentence to ask on a hot summer afternoon in June. It's hard to blame Graham, an angel investor known for being brusque, for placing a premium on his time. If there's one thing he values, it's speed.
+
+As co-founder of Y Combinator, the Silicon Valley tech accelerator, Graham has made a career of turning half-cooked business ideas into fast-growing companies in a matter of months. Twice a year, thousands of aspiring entrepreneurs vie for a coveted spot in one of Y Combinator's cohorts. This summer, 53 were chosen, an honor that earned them up to $20,000 in seed capital, access to Graham and his partners, and a chance to pitch their ideas to a roomful of venture capitalists on Demo Day.
+
+Among the 564 companies Y Combinator has funded over the past eight years are many runaway hits, including the cloud storage service Dropbox, the home-sharing start-up Airbnb, and the social-news site Reddit. It's also had more than a few failures, including Perfect Third, whose sleep-tracking device WakeMate literally went up in flames before the company tanked. Despite those missteps, Y Combinator companies have collectively raised more than $1.7 billion in funding, at a total valuation of $11.7 billion, according to Graham.
+
+The accelerator's modest headquarters in Mountain View, California, is furnished with relics from Graham's past, including a desk he bought back in the 1990s after co-founding Viaweb--a company that allowed anyone to build an online store--with Robert Morris and Trevor Blackwell. In 1998, Yahoo bought Viaweb for $49.6 million. Seven years later, Graham, Morris, and Blackwell launched Y Combinator with Jessica Livingston, who is now Graham's wife.
+
+As a few entrepreneurs from the current Y Combinator class waited eagerly outside a conference room to meet with Graham, he spoke about the current start-up landscape and what it takes to build companies for fast growth.
+
+Why do some start-ups succeed and others flop?
+
+The way the failures die is they run out of money. So what could cause them to run out of money? They can either not make something people want or they can be bad at selling it. Sometimes, they're just bad at selling. But most of the time, start-ups fail for the same reasons restaurants do: Their food is bad. If a place has really good food, it can be in an obscure location, charge a lot, and have really bad service, and it will still be popular. If it has bad food, boy, it better do something really special to get anybody in there. Which is why we say, "Make something people want." That's the fundamental problem. If you die, it's probably because you didn't make something people wanted.
+
+Given the recent setbacks suffered by Groupon and Zynga, how do you know you're making something people want for a long time and not just for now?
+
+Those are edge cases, in which you have some superaggressive sales force that burns out their prospects. Usually, you're lucky if you grow so fast that you run a risk of alienating users. You're talking about the danger of overeating, while most start-ups die of starvation.
+
+You recently brought on Groupon founder Andrew Mason as a part-time partner. How come?
+
+He is great, that's why. He is brilliant and hilariously funny. One thing I know about start-ups is that, internally, they're all train wrecks. You read about some train wrecks in the press and other train wrecks stay out of the press. I would certainly never hold it against Andrew that his particular train wrecks ended up being reported.
+
+Incubators have caught flak for underselling the challenges of entrepreneurship. Are Y Combinator founders prepared for how hard it is to start a company?
+
+I've written a lot about what a bitch the start-up world is. So, maybe the other incubators are underselling, but we're not. That being said, everyone is surprised by how difficult it turns out to be, because it's not the kind of difficulty people have experienced before. That's one reason you want to have something like Y Combinator, because not a lot of money or time is at risk. So we're totally OK with funding people who seem promising and earnest, and then, if it turns out to be too hard for them, that's all right. Nobody knows what they're capable of until they try it. Maybe half a percent of people have the brains and sheer determination to do this kind of thing. Start-ups are hard but doable, in the way that running a five-minute mile is hard but doable.
+
+Are there any bad habits that many Y Combinator founders share?
+
+They don't realize how independent they can be. When you're a child, your parents tell you what you're supposed to do. Then, you're in school, and you're part of this institution that tells you what to do. Then, you go work for some company, and the company tells you what to do. So people come in like baby birds in the nest and open their mouths, as if they're expecting us to drop food in. We have to tell them, "We're not your bosses. You're in charge now." Some of them are freaked out by that. Some people are meant to be employees. Other people discover they have wings and start flapping them. There's nothing like being thrown off a cliff to make you discover that you have wings.
+
+There's been a lot of debate over whether Silicon Valley founders are solving "real problems." Where do you stand?
+
+I think people underestimate how small big ideas were when they first got started. Microsoft's first product was an implementation of the BASIC programming language for a machine called Altair. There were probably a few thousand users, total. If those guys had presented that idea on Demo Day, investors would have laughed at them. But it turns out, everything has some adjacent territory, if you're energetic enough. It's OK to start out with a small idea. People are bad at looking at seeds and guessing what size tree will grow out of them.
+
+The way you'll get big ideas in, say, health care is by starting out with small ideas. If you try to do some big thing, you don't just need it to be big; you need it to be good. And it's really hard to do big and good simultaneously. So, what that means is you can either do something small and good and then gradually make it bigger, or do something big and bad and gradually make it better. And you know what? Empirically, starting big just does not work. That's the way the government does things. They do something really big that's really bad, and they think, Well, we'll make it better, and then it never gets better.
+
+How do you know when a small idea has big potential?
+
+Mostly, we look at the people. If they seem determined, flexible, and energetic, and their ideas are not just flamingly terrible, then we'll fund them. We thought Airbnb was a bad idea. We funded it because we really liked the founders. They seemed so determined and so imaginative. Focusing on them saved us from our own stupidity.
+
+The very best ideas usually seem like bad ideas at first. Google seemed like a bad idea. There were already several other search engines, some of which were operated by public companies. Who needed another? And Facebook? When I first heard about Facebook, it was for college students, who don't have any money. And what do they do there? Waste time looking at one another's profiles. That seemed like the stupidest company ever. I'm glad no one gave me an opportunity to turn it down.
+
+How has your method of assessing Y Combinator applicants changed since it launched?
+
+We learned a bunch of tells as time went on. We videotape all of our interviews, and before each round of interviews, we look at the game tapes from the last round. By then, we know something about how these start-ups turned out, either good or bad. Sometimes, you look at that video and say, "We would have been fooled by these guys again." But sometimes, we can see: "Aha! They're doing X."
+
+Like what?
+
+One quality that's a really bad indication is a CEO with a strong foreign accent. I'm not sure why. It could be that there are a bunch of subtle things entrepreneurs have to communicate and can't if you have a strong accent. Or, it could be that anyone with half a brain would realize you're going to be more successful if you speak idiomatic English, so they must just be clueless if they haven't gotten rid of their strong accent. I just know it's a strong pattern we've seen.
+
+Another bad indication is when we feel sorry for people applying for the program. We used to fund people because they seemed so well meaning. We figured they would be so happy if we accepted them, and that they would get their asses kicked by the world if we didn't. We eventually realized that we're not doing those people a favor. They get their asses kicked by the world anyway.
+
+What do you make of all the $1 billion valuations these days? Are these companies worth it, or is this a sign of a bubble?
+
+Instagram is probably a good deal, because Mark Zuckerberg is no fool. If he bought Instagram for $1 billion, that means he needed to. I suspect what that meant was, Instagram was a real danger to Facebook. That's what valuation is, right? If you're worth $1 billion to Mark Zuckerberg, then you're worth $1 billion.
+
+But Instagram is an anomaly, not a sort of thing you can reproduce. One reason that you're hearing people talk about high valuations is that companies are taking much longer to go public. Yes, prices are high. But there is a difference between high prices and a bubble. Valuations are high, which means they will probably go down, and then they will go back up again and then down.
+
+But a bubble is a different thing. A bubble is when people knowingly pay ridiculously high valuations hoping to sell their assets to a greater fool later. And that's not going on now. No one is thinking that they're going to fund this company and it's going to go public and stupid retail investors are going to buy these overpriced stocks at an even higher price. I know these people. That's not their motivation.
+
+You seem to be one of the most optimistic guys in Silicon Valley right now. Why is that?
+
+What inspires my optimism is I get to work with the best 2 percent of thousands of people. For all I know, the world can be going to hell in a handbasket. But of the 53 start-ups in the current batch at Y Combinator, almost all of them are really good. People talk about young people being lazy. None of the young people around here are lazy. They're all working their asses off. Maybe that's why I'm optimistic. Part of it is that I'm probably naturally optimistic, though. If you were a naturally pessimistic person, you would not be very good at this.
+
+Is there anything Y Combinator start-ups have taught you that you wish you had known when you were running Viaweb?
+
+We were the only start-up I knew, so I didn't know what our strengths and weaknesses were, relative to other start-ups. Now I can say exactly what kind of start-up we were. We were the kind of start-up started by nerds who were really good at programing and really, really bad at sales and business. Now I would know exactly what to tell my previous self, which is that I should be spending all my time selling. Our first inclination back then was that the solution to any problem was to program our way out of it. In retrospect, our software was way more sophisticated than it needed to be.
+
+Do you ever miss the excitement of building a start-up yourself?
+
+My God! I would never do that again. It's much easier to be an investor than it is to start a company. I mean, I sort of have started a company, because Y Combinator has become so big, but at least we're not serving data to paying customers or dealing with issues that blow up in the middle of the night. Even though it's more of a company now than I meant to start, it's not as bad as running a start-up.
+
+What do you see in Y Combinator's future?
+
+There is a secular trend going on, in which launching a start-up is a more common thing to do. It used to be there were two things you could do after college: go to grad school or get a job. Soon, I think there will be three things: go to grad school, get a job, or start your own company. I suspect this will be one of these economic transformations on the scale of the industrial revolution.
+
+When I was a kid, your prestige was the prestige of the company you worked for. Part of the problem with starting your own company was that you wouldn't have any prestige. Now that people are starting more companies, I could easily imagine a world in which the number of successful start-ups is 10 times or, conceivably, 100 times what it is now. There are tons of Brian Cheskys (CEO of Airbnb) and Drew Houstons (CEO of Dropbox) going off to work for Microsoft or Google right now. They could start their own companies if they wanted to. We might have to figure out how to grow, too. Maybe there's some crazy future in which Y Combinator is 10 times as big. This is a world where shit like that is always happening.

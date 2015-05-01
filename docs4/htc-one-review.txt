@@ -1,0 +1,56 @@
+I’ve spent the better part of the last two weeks with HTC’s new One M9. It’s the latest flagship from the once-powerful smartphone maker and the successor to last year’s One M8. The M9 is exceptionally similar to its forebear: it’s nearly all aluminum, has a 5-inch, 1080p screen, has really loud speakers above and below that screen, and is unmatched in build quality, craftsmanship, and design in the Android world.
+
+The M8 was a great smartphone — it was beautiful and fast and featured inoffensive software, great sound, and a sharp screen. The M9 has all of those traits, but it’s also been specifically designed to right the M8’s two major faults: a finish that was too slippery to hold and a camera that took sub-par pictures. Of those two things, the camera is far more important: the M8’s disappointing camera was the big factor holding it back from being great.
+
+For the past two weeks, I’ve been trying to shake the feeling that I’ve seen this all before, that I’ve acted out this scenario already. But I can’t. I’ve been living in smartphone déjà vu.
+
+Déjà vu experiences can be great, frustrating, or even surreal. In the case of the M9, it’s a bit of everything. I’m going to start with the good, because really, there is a lot of good here. The One M9 has a beautiful design, beautiful finish, feels great in the hand, and doesn’t look like a copy of any other smartphone — except, well, the M8. But that’s not a bad thing, the M8 was a great looking phone and the M9 is too.
+
+The main visual differences between the two are the sharper edges of the M9 and the power button, which finally moved from the top of the M8 to the side of the M9. HTC says its goal was to blend the best of the M7 from two years ago with last year’s M8 and I’d say the company succeeded. The M9 you’re most likely to see dons a new two-tone color scheme: it’s silver on the front and back with gold on the sides. I’m not a huge fan of it, but the other color options (all gold, black, or even pink) look nicer. The finish is shinier than last year’s mostly matte surface, which works to make the phone less slippery than before.
+
+USING THE M9 FEELS LARGELY THE SAME AS THE M8 FROM LAST YEAR
+The relocated power button is also much easier to use on the M9, but it’s too easily confused with the volume buttons just above it. A simple fix would be to put the volume buttons on the opposite side as the power button, but overall this is a pretty minor complaint.
+
+On the whole, the experience of holding, using, touching, and taking the M9 in and out of pockets is the same as it was with the M8, save for the lack of worrying that the phone was going to slip out of my hands like a bar of soap at any given moment. The M9 is slightly shorter and ever so slightly thicker than last year’s phone, but it’s not noticeably different in everyday use.
+
+The same can be said for the M9’s 5-inch, 1080p display and front-facing speakers. The screen is color accurate and bright enough for outdoor use. It doesn’t have as many pixels as other smartphone displays, but it’s dense enough that it’s impossible to see any individual pixels or jagginess with the naked eye. Those signature front-facing stereo Boom Sound speakers still sound great too, and the M9’s are even a tad louder this time around.
+
+The M9 is also really fast. It’s got Qualcomm’s new flagship Snapdragon 810 processor and 3GB of RAM, which means I almost never have to wait for an app to open or for the homescreen to redraw itself. This isn’t to say the M8 was slow — it wasn’t by any means — but the M9 bring a whole new level of speed. It’s easily the fastest Android phone I’ve used. That speed also comes with efficiency: the battery is slightly larger in the M9 than in the M8 and it consistently went all day on a single charge. It won’t last for more than a day off of the charger as larger phablets with their even bigger batteries can, but if you’re used to charging your phone every night anyways, it’ll easily get the job done.
+
+THE M9 IS EASILY ONE OF THE FASTEST ANDROID PHONES I'VE EVER USED
+Part of that speedy experience also is thanks to the new version of Sense, the software that HTC layers on top of Android 5.0 Lollipop. It’s responsive and quick, and unlike other custom Android interfaces, doesn’t slow down the experience at all. It’s visually very similar to the software on the M8 and has most all of the same features. But there two new standout components: a new theming engine that lets you quickly customize the look and sound of the software, and a widget for the homescreen that attempts to predict which apps you’ll need based on your location.
+
+The theming ability is cool and fun to play with. You can quickly change the wallpaper, app icons, fonts, sounds, and more on your M9 with a variety of downloadable theme packs. Or you can create one on HTC’s website and upload it to your phone or share it publicly. You can even build a custom theme based on the colors in a picture you take. The theming does more than I expected it to and it smartly leverages Android’s customizability in fun ways.
+
+I’m less impressed with the predictive widget. It’s supposed to serve appropriate apps for work, home, or travel based on your location. Perhaps my email and calendar apps will float to the top when I’m at the office, while Maps and music are displayed when I hit the road. It’s a useful idea in theory (and it’s not particularly novel —there are a host of third party app launchers that promise the same things), but HTC’s execution needs work. It takes too long to learn my habits and it populates the widget with a folder of suggested apps, many of which were comically off base or already installed on the phone. (I have nothing against Canada, but I’ve been in New York the entire time I’ve used the M9 and it still insisted that I download the Canadian Post app.) Fortunately, it is just a widget, which means you can easily remove it from the home screen and forget about it.
+
+But just as last year’s M8 had a lot going for it along with a few critical flaws, not everything is perfect with the M9. The biggest problem with the M8 was its lackluster camera, a low-resolution "Ultra Pixel" camera that just didn’t compare to the best cameras from Apple or Samsung. It was paired with a secondary sensor to do depth of field tricks that proved to be more gimmicky than useful.
+
+For the M9, HTC took a completely different approach: its main camera has a high-resolution, 20-megapixel sensor and that secondary sensor is gone. The UltraPixel camera has moved to the front, where it actually works pretty well for low-light selfies and its lower pixel count isn’t as much of a problem. The new main camera has lots of pixels though — a direct response to criticisms that the M8’s camera wasn’t high resolution enough.
+
+THE M9'S NEW CAMERA DOESN'T RESULT IN BETTER PICTURES
+Unfortunately, this new approach doesn’t result in any better pictures, and in many cases, images taken with the M9 are worse than they were last year. The M9 has the pixel count the M8 lacked, but all too often the images are fraught with noise reduction and smearing of details. Low light pictures often have odd color casts and there’s unpleasant blooming in highlights. In well lit scenes, the M9 has trouble exposing wide ranges of light to dark areas.
+
+The actual camera software on the M9, the app that you use to take photos, is great. It’s fast and easy to use, and provides quick access to photographic controls such as white balance if you want them. But the end result just isn’t as good as it should be, certainly not for a flagship smartphone in 2015.
+
+
+HTC One M9 image on the left, iPhone 6 image on the right (Images cropped and resized for the web)
+I tested the M9 against the iPhone 6 side-by-side in a variety of situations, and the M9’s images were softer, not as well exposed, filled with noise reduction artifacts that gave them a watercolor look, and often had inaccurate white balance. The iPhone 6 took better pictures in nearly every comparison. Apple (and to a certain extent, Samsung) has a huge advantage that HTC doesn’t: it controls its supply chain very tightly and can choose from the best camera components before anyone else. It's a disadvantage that HTC hasn't been able to overcome, and it's very obvious with the M9's camera.
+
+If there was one thing HTC had to get right with the M9, it was the camera. The design didn’t change, the screen isn’t new, the software is largely the same. The camera is where HTC focused all of its efforts and it came up short.
+
+The original French adjective from which déjà vu is drawn from literally translates to "already seen." In the case of the One M9, much of it, from the good to the bad, has already been seen.
+
+On the good side, the M9 is a beautifully designed smartphone, with a great screen, great sound, speedy performance, and all-day battery life. It’s just like last year’s phone in those respects. But on the ugly side, the M9’s camera is a huge disappointment, not only because it doesn’t improve upon last year’s M8, but because it simply doesn’t work as well as many of the other phones you can choose from.
+
+The M9 doesn’t do anything to improve HTC’s position against the rest of ultra-competitive premium smartphone world. Samsung, HTC’s closest competitor, has dramatically closed the gap in terms of hardware and design with its forthcoming Galaxy S6. And by all accounts, it will have a far superior camera as well. The iPhone has long been a phone with great design and picture quality that beats most point and shoot cameras you can buy.
+
+FOR THE THIRD YEAR IN A ROW, HTC HAS A REALLY COMPELLING PHONE WITH A DISAPPOINTING CAMERA
+Smartphones aren’t just phones anymore, they are increasingly the only cameras that people own or use. People often pick a phone based solely on how well it takes pictures and the phone’s camera can make or break the device. In the case of the M9 (and the M8 before it), it breaks it.
+
+For the third year in a row, HTC has produced one of the most visually alluring smartphones that feels as incredible as it looks. And for the third year in a row, it has show-stopping flaws, which bring the great experience you’re having to a screeching halt.
+
+Here’s one more definition: "Insanity is doing the same thing over and over again and expecting different results."
+
+Product photography by Sean O'Kane.
+
